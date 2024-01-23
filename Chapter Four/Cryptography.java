@@ -27,22 +27,6 @@ public class Cryptography{
 
  System.out.print(""+ digit3 + digit4 + digit1 + digit2);
 
-
-
-
-       
-
-
-
-
-
-
-
-
-   
-
-
-
-}
+     }
 
 }
